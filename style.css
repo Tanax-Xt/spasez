@@ -75,12 +75,13 @@ b {
 }
 
 .main {
+ text-align: center;
  background-color: #131313;  
-column-count: 4;
-column-gap: normal; 
- display: flex;
-  align-items: baseline;
-  justify-content: space-between;
+ column-count: 4;
+ column-gap: normal; 
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 .rec {
@@ -109,8 +110,8 @@ column-gap: normal;
     width: 300px;
 }
 
-.moon {
- margin-right: 20%;
+.moon { 
+ margin-right: 15%;
 }
 
 .roket {
