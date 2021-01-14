@@ -88,6 +88,14 @@ column-gap: normal;
 
 }
 
+.h1 {
+ margin-left: 90px; 
+}
+
+.p {
+ margin-left: 90px
+}
+
 .logo2 {
      display: flex;
       justify-content: flex-start;
@@ -99,4 +107,40 @@ column-gap: normal;
 
 #moon {
     width: 300px;
+}
+
+.moon {
+ margin-right: 130px;
+}
+
+.roket {
+ margin-left: 16%;
+}
+
+.milk {
+
+}
+
+.man {
+
+}
+
+.mini {
+ margin-right: 16%;
+}
+
+p1 {
+ margin-left: 16%;
+}
+
+p2 {
+
+}
+
+p3 {
+
+}
+
+p4 {
+ margin-right: 16%;
 }
