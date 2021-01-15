@@ -83,7 +83,10 @@ b {
 
 .rec {
     color: #ffcb06;
+}
 
+.map {
+    padding-right: 50px;
 }
 
 .h1 {
