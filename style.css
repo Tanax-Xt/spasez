@@ -33,6 +33,7 @@ button {
     height: 50px;
   display: flex;
   align-items: center;
+  margin-bottom: 7%;
 }
 
 nav {
@@ -110,8 +111,7 @@ b {
     width: 300px;
 }
 
-.moon { 
- margin-right: 10%;
+.moon {
+ padding-right: 15%;
  margin-bottom: 3%;
 }
-
