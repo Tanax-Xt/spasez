@@ -76,12 +76,9 @@ b {
 
 .main {
  text-align: center;
- background-color: #131313;  
- column-count: 4;
- column-gap: normal; 
- display: block;
- margin-left: auto;
- margin-right: auto;
+ background-color: #131313; 
+      display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .rec {
@@ -112,36 +109,6 @@ b {
 
 .moon { 
  margin-right: 8%;
+ margin-bottom: 3%;
 }
 
-.roket {
- margin-left: 16%;
-}
-
-.milk {
-
-}
-
-.man {
-
-}
-
-.mini {
- margin-right: 16%;
-}
-
-p1 {
- margin-left: 16%;
-}
-
-p2 {
-
-}
-
-p3 {
-
-}
-
-p4 {
- margin-right: 16%;
-}
