@@ -31,9 +31,10 @@ button {
     border-radius: 20px;
     width: 240px;
     height: 50px;
-  display: flex;
-  align-items: center;
-  margin-bottom: 7%;
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 20px;
 }
 
 nav {
@@ -84,6 +85,7 @@ b {
 
 .rec {
     color: #ffcb06;
+
 }
 
 .map {
@@ -104,14 +106,19 @@ b {
 }
 
 .compani {
-    border-spacing: 150px;
+    border-spacing: 200px;
 }
 
 #moon {
     width: 300px;
 }
 
-.moon {
- padding-right: 15%;
- margin-bottom: 3%;
+.moon { 
+ padding-right: 10%;
+        margin-bottom: 3%;
+}
+
+.page-main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
